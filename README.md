@@ -1,3 +1,6 @@
+#campuslands
+segundo filtro, php
+
 Creación de la base de datos desde la terminal
     mysql -u campus -p
     Enter password: 
